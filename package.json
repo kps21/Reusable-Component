@@ -1,0 +1,9 @@
+{
+  "name": "async-http-request-components",
+  "version": "1.0.0",
+  "description": "A Reusable Async HTTP Request Components",
+  "main": "httpRequest.js",
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
